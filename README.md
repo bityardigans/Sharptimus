@@ -5,5 +5,5 @@ Use this library to generate unique IDs like snowflake (based on instanceid and 
 Knuth's integer hash.
 
 <p align="center">
-<img src="http://jenssegers.be/uploads/images/optimus.png">
+<img src="http://bityard.co/wp-content/uploads/sites/35/2015/09/Sharptimus.png">
 </p>
